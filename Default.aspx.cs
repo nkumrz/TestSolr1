@@ -56,6 +56,7 @@ public partial class _Default : System.Web.UI.Page
             {
                 ltrmsg.Text += s;
                 ltrmsg.Visible = true;
+
             }
         }
     }

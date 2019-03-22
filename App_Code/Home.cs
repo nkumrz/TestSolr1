@@ -51,12 +51,6 @@ public class Home
     [SolrField("style")]
     public string Style { get; set; }
 
-    //[SolrField("inStock")]
-    //public bool InStock { get; set; }
-
-    
-    //[SolrField("weight")]
-    //public double? Weight { get; set; } // nullable property, it might not be defined on all documents.
     public Home()
     {
         //

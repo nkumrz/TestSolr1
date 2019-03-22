@@ -28,8 +28,6 @@ public class common
         {
             if (!string.IsNullOrEmpty(row))
             {
-
-
                 //Execute a loop over the columns.  
                 string[] cell = row.Split(',');
                 Home home = new Home();
